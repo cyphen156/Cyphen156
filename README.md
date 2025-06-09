@@ -4,8 +4,6 @@
 ### 1. 3D DirectX11 Engine
 #####  CyphenEngine :: C++Engine Study
 
-###  2. 2D SDL Engine
-#####  UnityBootCamp  ::  C# Engine Study  ==>>  FrostPunk Copy Project
 <!--
 **cyphen156/Cyphen156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
