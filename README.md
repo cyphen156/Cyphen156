@@ -41,14 +41,33 @@
 
 > 아래 기술은 실험적으로 사용해보거나 일부 프로젝트에서 테스트, 학습한 경험이 있습니다.
 
-- **Language**: Java  
-- **Editor**: Android Studio  
-- **Backend / Infra**: Firebase, Node.js, Win32 API  
-- **Web Scraping / Data**: Selenium, BeautifulSoup, Pandas  
-- **TTS / NLP**: GlowTTS, OpenAI API  
-- **Computer Vision**: OpenCV  
-- **Frontend / UI**: Vue.js, MAUI  
-- **Design**: Figma  
+### 🗣️ Language / Editor
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### 🛠 Backend / Infra
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Windows API](https://img.shields.io/badge/-Win32_API-0082D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌐 Web Scraping / Data
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔊 TTS / NLP
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GlowTTS](https://img.shields.io/badge/-GlowTTS-444444?style=for-the-badge&logo=tts&logoColor=white)
+
+### 🧠 Computer Vision
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🎨 Frontend / UI
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
