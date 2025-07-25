@@ -24,6 +24,7 @@
 
 ## Sub Language
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 
 ### 🧱 Frameworks / Engines
 ![React Native Badge](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
