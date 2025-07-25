@@ -16,7 +16,7 @@
 
 ## 🧰 Languages and Tools
 
-### 🔧 Languages
+# 🔧 Languages
 ## Main Languages
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=.NET&logoColor=white)
