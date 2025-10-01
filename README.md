@@ -11,6 +11,8 @@
 - 💡 실시간성과 성능 중심의 저수준 시스템에 관심이 많습니다.
 - 🖼 실시간 렌더링과 그래픽스 프로그래밍에 깊은 관심을 가지고 있습니다. 
 - ⚙️ 현재는 DirectX11 기반 <strong>CyphenEngine</strong> 개발 중입니다.
+- -> 임시 중지
+- Skul : The Hero Slayer를 모작한 Skul : Dimension Rift 프로젝트를 진행중입니다.
 
 ---
 
